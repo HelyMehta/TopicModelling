@@ -16,8 +16,6 @@ import en_core_web_sm
 filepath = 'Enter filepath'
 filename = 'Enter filename'
 
-filename_2= 'anemia_or_pain_or_opioid.csv'
-dataframe_2=pd.read_csv(filepath+filename_2)
 dataframe=pd.read_csv(filepath+filename)
 print(len(dataframe))
 
