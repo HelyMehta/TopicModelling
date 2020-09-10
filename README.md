@@ -10,4 +10,5 @@ For data mining and topic modelling:
 - Gensim
 - NLTK
 - SpaCy
+- PyLDAvis
 
