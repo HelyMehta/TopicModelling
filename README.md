@@ -12,3 +12,5 @@ For data mining and topic modelling:
 - SpaCy
 - PyLDAvis
 
+The *data_from_pubmed.py* file uses the functions from Biopython for fetching scientific literature from the PubMed database based on search results.
+The *topic_modelling.py* file cleans the data (paper abstracts and titles) and performs topic_modelling using gensim and visualize the topic models using Pyldavis.
